@@ -1,3 +1,4 @@
 theme: jekyll-theme-midnight
 title: Richard's Portfolio
 description: This is a test of the page system.
+logo: "/images/logo.png"
